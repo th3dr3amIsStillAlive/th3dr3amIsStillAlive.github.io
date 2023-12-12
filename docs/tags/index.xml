@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TheDreamIsStillAlive</title>
+    <link>https://th3dr3amisstillalive.github.io/tags/</link>
+    <description>Recent content in Tags on TheDreamIsStillAlive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://th3dr3amisstillalive.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10k</title>
+      <link>https://th3dr3amisstillalive.github.io/tags/10k/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://th3dr3amisstillalive.github.io/tags/10k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://th3dr3amisstillalive.github.io/tags/introduction/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://th3dr3amisstillalive.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://th3dr3amisstillalive.github.io/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://th3dr3amisstillalive.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
