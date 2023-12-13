@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/@kdlsnsb",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "TikTok",
+      "url": "#",
+      "image": "images/social/tiktok.svg"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/thedreamisstillaliiive",
+      "image": "images/social/insta.svg"
+    }
+  ]
+}
